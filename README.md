@@ -18,8 +18,8 @@
 
 <h3>Coursework</h3>
 
-<a href="https://github.com/alkhdaniel/Elements-of-AI-Building-AI---Advanced">Elements of AI: Building AI - Advanced</a> - Linköping University<br />
-<a href="https://github.com/alkhdaniel/Fullstack-Open-2022">Fullstack Open 2022</a> - Helsinki University<br />
+<a href="https://github.com/alkhdaniel/Elements-of-AI-Building-AI---Advanced">Elements of AI: Building AI - Advanced</a> - University of Helsinki and Reaktor<br />
+<a href="https://github.com/alkhdaniel/Fullstack-Open-2022">Fullstack Open 2022</a> - University of Helsinki<br />
 
 <!--
 **alkhdaniel/alkhdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
